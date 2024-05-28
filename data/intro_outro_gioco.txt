@@ -1,0 +1,13 @@
+1 
+[i] E' passato da poco il tramonto, scorgi la testa fuori dalla carovana e, per un attimo intravedi il castello in lontananza. Tra poco la nave attracchera' e la carovana in cui sei nascosto giungera' nel castello.
+...
+...
+<clang!>
+...
+La carovana giunge nel castello e la grata d'entrata del castello si chiude. E' quasi fatta. La tua avventura inizia tra poche ore, appena calera' la notte.
+...&
+2
+[i] Le pietre incastonate sulla corona sembrano rubini, in realta' sono diamanti. Pulisci il sangue dalla corona e la riponi nell'inventario.
+Ti copri il capo con l'elmo e impugni la spada, poi apri il portone e fuggi sulla torre EST del castello. Noti una barca attraccata all'isola.
+Non ci pensi due volte, prendi un gran respiro, ti tuffi in mare e sali sulla barca.
+Sei fuggito dal castello.&

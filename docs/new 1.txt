@@ -1,0 +1,6 @@
+11TADV (group 11 Text ADVenture) è il progetto di un'avventura testuale scritta dal gruppo #11 del corso di Laboratorio di Informatica.
+CdL: "Informatica", Università degli Studi di Bari "Aldo Moro"
+Il progetto è stato sviluppato durante i mesi di Maggio e Giugno 2021 e consegnato il giorno 8 giugno 2021.
+Il programma è stato scritto interamente in linguaggio C.
+Tutte le funzioni sono commentate nel codice sorgente.
+

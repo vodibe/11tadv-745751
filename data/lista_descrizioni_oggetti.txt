@@ -1,0 +1,267 @@
+10 Una scala che conduce su.&
+11 Una scala a chiocciola tipica delle torri.&
+12 C'e' un cadavere in una cella. Nelle altre, ci sono solo dei mucchi di ossa.&
+13 Un cassetto.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+20 La scultura di una divinita' di alcuni metri sta dietro l'altare.&
+21 Un candelabro. Mi potra' servire.&
+22 E' un coltello sacro e ricurvo di mezzo metro. Si impugna bene.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+40 Una poltrona sfarzosa di tessuto rosso e ricoperta d'oro.&
+41 La statua del Re che impugna uno spadone.&
+42 Dentro una gabbia sfarzosa c'e' gufo reale maestoso, alto circa 1 metro. I suoi occhi sono cosi' grandi!
+Che ne diresti di..ehm...prenderlo?&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+50 Il portale da cui sei giunto in questa stanza. Guardandolo, pensi ci sia qualcosa di magico.&
+51 Dalla scala proviene uno spiraglio di luce che illumina la stanza.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+60 Una scala a chiocciola che conduce giu'.&
+61 Ti avvicini alla porta e senti il fruscio del vento. Condurra' sicuramente al di fuori della torre.&
+62 Un caldo fuocherello. Avvicini le mani per riscaldarti.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+70 Il portone che conduce al di fuori della Chiesa.&
+71 Un inginocchiatoio. Verro' qui a pentirmi dei miei peccati quando uccidero' il Re...&
+72 Attaccato al muro c'e' una grata con una serratura.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+80 C'e' una vetrata sulla porta. Intravedi la piazza principale.&
+81 Un grande quadro e' appeso al muro. E' un ritratto del Re.&
+82 Ti avvicini al camino e noti che sotto la legna c'e' uno spiraglio di luce. Da qui non si vede nient'altro.
+Hai una sensazione che sia abbastanza stretto per passarci.&
+83 Una statuetta che raffigura un occhio di una bestia. L'occhio sembra essere incastonato di ambra.&
+84 Una teca trasparente. Avvicini la torcia e noti che dentro e' custodita una... piuma?!&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+90 Un portone che conduce verso una stanza lussuosa e formale.&
+91 Una porta a bilico che si mimetizza bene con l'intonaco del muro.&
+92 Un tavolo.&
+93 Alcune poltrone.&
+94 Un cassetto.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+100 Una porta a bilico che si mimetizza bene. Sai che conduce alla Sala Reale&
+101 Un tavolino.&
+102 Statuetta_con_indizio i,l&
+103 Una sedia.&
+104 Quadro i&
+105 Un cassetto&
+106 La libreria occupa un intero lato della stanza. Tra due libri posti in alto hai intravisto un involucro vuoto. Guardandolo da vicino noti che da esso provengono delle piccole scintille magiche. Sei confuso, forse bisogna usare qualcosa.&
+107 Un portale che conduce da qualche parte, ma non sai dove. Guardandolo meglio pensi ci possa essere qualcosa di magico, altrimenti non si spiega come possa essere comparso.&
+-1 n&
+-1 n&
+110 La porta che conduce nella stanza interna della torre.&
+111 Dall' armatura riconosci che e' una guardia. Non puoi avvicinarti troppo perche' potrebbe accorgersi della tua presenza. Devi assassinarlo all'improvviso, senza che lui se ne accorga.&
+112 Una chiave dorata con incisa una grande 'R'.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+120 Ti avvicini alla porta saloon della scuderia ma e' chiusa.
+    <Zzz....... Zzz....>
+    Qualcuno sta dormendo?!&
+121 Un portone alto alcuni metri ti puo' condurre nella Chiesa. E' socchiuso, puoi aprirlo tranquillamente. L'importante e' che non fai rumore.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+131 Un' enorme statua del Re e' al centro della piazza. C'e' inciso qualcosa. Un'aiuola di fiori colorati la circonda.&
+132 Ti avvicini al pozzo e noti che in fondo c'e' un secchio.
+    Distingui qualcosa, ma occorre una fune per poterlo esplorare.&
+133 La fune attaccata alla carrucola del pozzo ti permette di scendere giu'.&
+134 Muovi adagio la maniglia della porta del palazzo reale, ma serve una chiave per aprirla. La porta pero' si compone di una vetrata che ti lascia intravedere cosa c'è dentro: il buio piu' totale. Ti servira' una torcia per esplorare il palazzo.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+140 Un portone alto 3 metri circa.&
+141 Una porta.&
+142 Il tavolo della sala da pranzo e' lungo.&
+143 Delle sedie.&
+144 C'e' del caffe' sul tavolo. Menomale.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+150 Il Re.&
+151 La corona reale con tante pietre preziose.&
+152 Il portone che conduce nell'armeria.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+170 La quercia piu' grande del giardino.  Guardi in alto, puoi facilmente salire su.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+180 La carovana in cui ti sei nascosto per infiltrarti nel castello, dentro potrebbe esserci qualcosa.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+190 La porta che ti ha condotto qui.&
+191 Il bancone usato dal cuoco del palazzo per cucinare.&
+192 Speri che sia una cassa con dentro tantissimo cibo. Per scoprirlo devi solo aprirla.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+200 Dallo scalino proviene della luce.&
+201 In fondo alla stanza c'e' un grande portone di legno. Serve una chiave per aprirlo.&
+202 La teca e' trasparente e riesci a vedere cosa e' custodito. In ciascuno dei 3 scompartimenti c'e' un'arma e il relativo equipaggiamento.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+1300 Sali la fune per ritornare su.&
+1301 Una chiave dorata. Attaccata ad essa c'e' un foglio con scritto 'grata'.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+1200 La porta saloon da cui puoi uscire dalla scuderia.&
+1201 Alcuni cavalli tranquilli... Speri che stiano dormendo.&
+1202 Il guardiano della scuderia sta dormendo. Stringe in mano una fune e un sacchetto. Presto! Posso soffocarlo in silenzio prima che si svegli!&
+1203 Una fune di 5 metri legata. Puo' servire.&
+1204 Questa e' la chiave della scuderia. Trovi inciso un cavallo su di essa.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+1700 Ti trovi sulla quercia. In qualsiasi momento puoi sempre scendere.&
+1701 Alcune ghiande mature sono attaccate all'albero.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+700 Sbirci cosa c'e' oltre la grata: l'interno della Chiesa.&
+701 Una scala che porta giu'.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+500 La scala che ti porta nel passaggio segreto.&
+501 Uno scalino.&
+502 Dall' armatura riconosci che e' una guardia. Non puoi avvicinarti troppo perche' potrebbe accorgersi della tua presenza. Devi assassinarlo all'improvviso, senza che lui se ne accorga.&
+503 Una chiave dorata.&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+-1 n&
+130 Riconosci questo ciondolo! Ricordi che e' un ciondolo magico, forse puo' essere usato per aprire qualcosa...&
+840 Una piuma morbida.&
+940 Una mappa avvolta da un laccetto. Leggila per sapere cosa c'e' scritto.&
+941 Alcune medaglie del Re.&
+942 Sulla chiave c'e' inciso il simbolo di un libro.&
+1050 Guardando questo diamante da vicino, ti accorgi che c'e' un qualcosa di magico: l'hai visto brillare di una luce viola.&
+1800 Una mela rotonda come il mondo.&
+1920 Una manciata di mandorle.&
+2020 Una lunga spada pronta a far tantissimo danno. Insieme ad essa c'e' uno scudo ovale.&
+2021 Una mazza ferrata che pu' mettere a repentaglio qualunque armatura. Insieme ad essa c'e' un elmo metallico che ti copre il capo interamente, lasciando scoperti solo gli occhi.&
+2022 Un agile pugnale che incute timore. Insieme ad esso c'e' una armatura metallica.&
+-1 n&

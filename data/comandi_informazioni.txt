@@ -1,0 +1,16 @@
+^(andare)$|^(vai)$|^(recarsi)$|^(recati)$|^(proseguire)$|^(prosegui)$|^(visitare)$|^(visita)$ 0 ^(nord)$|^(est)$|^(sud)$|^(ovest)$ 0 0
+^(salire)$|^(sali)$|^(arrampicati)$|^(arrampicarsi)$ 1 S 1 0
+^(scendere)$|^(scendi)$ 1 s 1 0
+^(guardare)$|^(guarda)$|^(osservare)$|^(osserva)$|^(fissare)$|^(fissa)$|^(esplorare)$|^(esplora)$|^(adocchia)$|^(perlustrare)$|^(perlustra)$ 0 ^(intorno)$|^(attorno)$|^(stanza)$|^(dappertutto)$ 0 0
+^(ispezionare)$|^(ispeziona)$|^(analizzare)$|^(analizza)$ 1 i 1 1
+^(prendere)$|^(prendi)$|^(ottenere)$|^(ottieni)$|^(acquisire)$|^(acquisisci)$|^(prelevare)$|^(preleva)$|^(raccogliere)$|^(raccogli)$ 1 p 1 0
+^(aprire)$|^(apri)$|^(scassinare)$ 1 ^(inventario)$ 1 0
+^(usare)$|^(usa)$|^(utilizzare)$|^(utilizza)$|^(attivare)$|^(attiva)$ 1 u 0 1
+^(mangiare)$|^(mangia)$ 1 m 1 1
+^(equipaggiare)$|^(equipaggia)$ 1 e 0 1
+^(leggere)$|^(leggi)$|^(sfogliare)$|^(sfoglia)$ 1 l 1 1
+^(uccidere)$|^(uccidi)$|^(assassinare)$|^(assassina)$|^(ammazzare)$|^(ammazza)$|^(attacca)$|^(strangola)$|^(soffocare)$|^(soffoca)$ 1 w 1 0
+^(salvare)$|^(salva)$ 0 ^(partita)$|^(gioco)$|^(slot)$|^(progressi)$ 0 0
+^(caricare)$|^(carica)$ 0 ^(partita)$|^(gioco)$|^(slot)$|^(progressi)$ 0 0
+^(guida)$|^(aiuto)$|^(suggerimento)$ 0 ^(gioco)$|^(missione)$ 0 0
+^(saltare)$|^(salta)$|^(lanciati)$|^(gettati)$|^(balzare)$|^(balza)$ 0 ^(qui)$|^(scuderia)$|^(avanti)$|^(tetto)$ 0 0

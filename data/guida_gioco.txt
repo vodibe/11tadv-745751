@@ -1,0 +1,43 @@
+_________________________________
+_____[ GUIDA AL GIOCO ]__________)
+
+[h] ---COMANDI
+    In questa avventura testuale non c'e' un unico comando per esprimere un'azione.
+    Dai un'occhiata al file data/comandi_informazioni.txt per saperne di piu'.
+    Di seguito trovi alcuni esempi di comandi.
+    @ "vai"           - spostarti da una stanza all'altra.
+    @ "sali"/"scendi" - salire/scendere su/da un oggetto.
+    @ "guarda"        - guardare gli oggetti di una stanza.
+    @ "ispeziona"     - visualizzare dettagli di un oggetto.
+    @ "prendi"        - spostare l'oggetto nel tuo inventario.
+    @ "apri"          - aprire un oggetto contenitore/aprire una porta.
+    @ "usa"           - usare un oggetto dell'inventario dopo aver ispezionato un oggetto della stanza.
+    @ "mangia"        - mangiare un cibo.
+    @ "equipaggia"    - equipaggiare un'arma.
+    @ "leggi"         - leggere cosa c'e' scritto su un oggetto.
+    @ "uccidi"        - uccidere un nemico.
+[h] ---INVENTARIO/INFORMAZIONI DI STATO
+    Se vuoi visualizzare lo stato del protagonista, basta aprire l'inventario.
+    Troverai anche gli oggetti presi durante il gioco.
+[h] ---OGGETTI/COME UTILIZZARE UN OGGETTO
+    Ispezionare gli oggetti e' utile per sapere indizi su cosa dovresti fare ma anche per evitare di perdere il gioco.
+    Se vuoi usare un oggetto che hai raccolto ricordati prima di ispezionare un oggetto della stanza.
+    Durante il gioco puoi raccogliere piu' armi, ma puoi equipaggiare solo una.
+[h] ---COSA SIGNIFICANO [v] e [^]?
+    [v] Si puo' scendere dall'oggetto.
+    [^] Si puo' salire sull'oggetto.
+[h] ---NEMICI
+    Tutti i nemici rilasciano qualche oggetto. E' necessario ucciderli per ottenerli.
+    Inoltre, ricordati di guardare la stanza dopo aver ucciso un nemico.
+[h] ---STANZE
+    Ogni stanza e' collegata con eventuali altre stanze a nord/est/sud/ovest.
+    E' possibile che una stanza non sia collegata con altre stanze.
+    In tal caso per uscire dalla stanza devi interagire con un oggetto.
+[h] ---SALVATAGGIO/CARICAMENTO
+    Il sistema di checkpoint del gioco e' molto semplice: ogni volta che vuoi puoi salvare i tuoi progressi.
+    In maniera analoga, sia da menu che da avventura inoltrata puoi sempre caricare i tuoi progressi.
+    C'e' un unico file di salvataggio per utente, quindi un nuovo salvataggio sovrascrivera' il precedente.
+[h] ---USCIRE DAL GIOCO
+    Premi CTRL+C. Assicurati di salvare il gioco. Come si fa? Digita 'salva'.
+[h] ---RITORNARE AL GIOCO
+    Vuoi uscire da questa schermata e proseguire il gioco? Guarda la stanza.

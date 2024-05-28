@@ -1,0 +1,67 @@
+1
+A prima vista hai pensato fosse un semplice sotterraneo, ma ti trovi nella prigione nel castello. La stanza non e' del tutto buia, c'e' un filo di luce proveniente da sud.
+Ti sei coperto il naso perche' si sente una puzza di cadavere.&
+2
+Sollevi la testa e ti guardi intorno: il soffito della stanza dell'altare della chiesa e' altissimo. La luce che proviene dalla vetrata colorata crea un'atmosfera mistica.
+Davanti c'e' l'altare e a destra c'e' una vetrina che custodisce un falcastro.&
+3
+Descrizione stanza 3&
+4
+La scalinata ti ha portato nella stanza dell'altare del re. La stanza e' sfarzosa, esattamente come te la ricordavi.
+Accanto al trono c'e' un piedistallo con sopra una gabbia. Distingui una sagoma ombrata: forse e' un rapace.&
+5
+Sei arrivato in una stanza molto piccola e buia, probabilmente e' un passaggio segreto. L'unico spiraglio di luce proviene da una scala che conduce forse fuori.
+I muri sono in pietra e a terra c'e' una chiazza di sangue.&
+6
+Sei nella stanza della torre OVEST. Rispetto alle altre stanze fa piu' caldo, infatti c'e' un fuocherello acceso. Probabilmente qualcuno lo ha acceso e si e' allontato.&
+7
+La navata della chiesa e' una stanza molto grande. Il pavimento e' squamato, sui muri ci sono simboli sacri. Vicino al portone d'entrata ci sono due enormi pilastri. HEY! c'e' una grata che conduce da qualche parte!&
+8
+Nell'androne del palazzo reale usi la torcia per guardare meglio cosa c'e'. Noti subito il ritratto del re e all'angolo della stanza c'e' un grande camino.
+Al centro della stanza vedi una teca sopra la quale c'e' una statuetta.&
+9
+Riconosci subito questa stanza! La sala reale e' una stanza circolare in cui trovi a nord un'ampia scalinata. Il re non e' qui, intanto puoi dare un'occhiata.
+A sud trovi un portone grande e ad est c'e' una porta a bilico che si confonde col muro.&
+10
+Una luce viola proveniente da una finestra in alto crea un'atmosfera surreale. Guardando l'enorme libreria capisci che ti trovi nella biblioteca del castello.
+La stanza e' piccola ma ci sono molte cose, devi far attenzione a non fare movimenti bruschi.&
+11
+Uscendo dalla stanza della torre OVEST fai una leggera smorfia di dolore. La luce della luna piena ti abbaglia per qualche secondo.
+Capisci subito che sei sulla torre OVEST, percio' ti accovacci e perlustri l'ambiente furtivamente.
+Potrebbe esserci qualcuno qui.&
+12
+C'e' una piccola area rurale nel castello. In quest'area e' presente la scuderia reale. Infatti sulla porta a vento della scuderia c'e' uno stendardo verde con l'immagine di un cavallo.
+Dai una rapida occhiata intorno: a nord un portone di una chiesa, a sud il giardino del castello, a est una piazza.&
+13
+La piazza del castello e' interamente dominata dalla statua del re. Sotto c'e' una grande aiuola. Alzi lo sguardo: davanti e a destra c'e' l'enorme castello.
+Ti copri la testa perche' la piazza e' illuminata dalla luce della luna.&
+14
+Ti trovi nella sala da pranzo del castello. Sul tavolo c'e' ancora qualcosa.&
+15
+Sei entrato nella sala del Re. Pensavi che il Re stesse dormendo e invece impaurito e' corso a prendere una spada. Stringi identi e ti prepari al duello finale.&
+16
+Descrizione stanza 16&
+17
+Ti sei spostato nel giardino del castello. La luce della luna mette in risalto alcuni fiori colorati. L'unico albero dove intravedi dei frutti e' una grande quercia che e' anche l'albero piu' alto.&
+18
+Lo spiazzale del castello e' molto grande e si trova appena dopo la grata d'entrata. Questa pero' e' chiusa e quindi non puoi fuggire dal castello.
+Rimanere al centro in quest'area potrebbe dare nell'occhio. Ti nascondi dietro la carovana e guardi l'ambiente.&
+19
+In questa stanza c'e' un lungo bancone da cucina. Purtroppo non c'e' niente di commestibile. E' probabile che ci sia qualcosa nelle casse presenti dietro il bancone.&
+20
+Scendendo dallo scalino della torre EST arrivi in una stanza stretta illuminata da un lampadario posto in alto. Non e' una stanza lussuosa, attaccato al muro c'e' la testa di un animale, forse un cinghiale.
+A destra vedi una teca e capisci subito: sei nell'armeria del castello. Inizi a sudare.&
+130
+In fondo al pozzo c'e' poca acqua. Trovi solo un secchio con dentro una chiave.
+Non puoi rimanere qui a lungo perche' c'e' un caldo asfissiante e non puoi bagnarti perche' rischieresti di far rumore.&
+120
+Ci sono alcuni cavalli nella scuderia. Ti accovacci perche' potrebbero spaventarsi e far rumore. Incroci le dita.&
+170
+Salendo sulla parte alta della quercia puoi finalmente guardare tutta l'area in sicurezza.
+Sei molto vicino alla scuderia e abbassando lo sguardo noti che sul tetto c'e' una fessura per poter entrare.
+Per un attimo pensi di fare qualcosa di folle.&
+70
+La stanza e' molto stretta: c'e' solo una scala che conduce in basso.
+Dove potrebbe condurre? Non ne hai la piu' pallida idea...&
+50
+Salendo la scala avevi un presentimento che ti conducesse nella torre EST.. e infatti avevi ragione. Sulla torre si sente la salsedine del mare. Ti accovacci e ti muovi in maniera furtiva perche' dalla parte opposta c'e' una guardia vicina allo scalino.&
