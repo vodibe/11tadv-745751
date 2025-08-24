@@ -1,0 +1,5 @@
+name: 11tadv
+services:
+  11tadv:
+    container_name: c_11tadv
+    image: i_11tadv

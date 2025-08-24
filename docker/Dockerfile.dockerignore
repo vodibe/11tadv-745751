@@ -1,0 +1,8 @@
+# Docker folder
+./docker
+
+# .git
+.git
+
+# Docs
+./docs
