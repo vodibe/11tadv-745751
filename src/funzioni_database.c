@@ -34,8 +34,8 @@ void init_lista_collegamenti_stanze()
     FILE * bin_lista_collegamenti_stanze;
     int temp_id;
 
-    txt_lista_collegamenti_stanze = fopen("data/lista_collegamenti_stanze.txt", "r");
-    bin_lista_collegamenti_stanze = fopen("data/lista_collegamenti_stanze.bin","wb");
+    txt_lista_collegamenti_stanze = fopen("../data/lista_collegamenti_stanze.txt", "r");
+    bin_lista_collegamenti_stanze = fopen("../data/lista_collegamenti_stanze.bin","wb");
     if(txt_lista_collegamenti_stanze == NULL || bin_lista_collegamenti_stanze == NULL)
     {
         printf("\n[X] Si e' verificato un errore con i file \"lista_collegamenti_stanze\".");
@@ -86,8 +86,8 @@ void init_lista_oggetti_stanze()
     char temp_nome     [LUNG_NOME_MAX];
     char temp_attributi[LUNG_ATTRIBUTI_MAX];
 
-    txt_lista_oggetti_stanze = fopen("data/lista_oggetti_stanze.txt", "r");
-    bin_lista_oggetti_stanze = fopen("data/lista_oggetti_stanze.bin","wb");
+    txt_lista_oggetti_stanze = fopen("../data/lista_oggetti_stanze.txt", "r");
+    bin_lista_oggetti_stanze = fopen("../data/lista_oggetti_stanze.bin","wb");
     if(txt_lista_oggetti_stanze == NULL || bin_lista_oggetti_stanze == NULL)
     {
         printf("\n[X] Si e' verificato un errore con i file \"lista_oggetti_stanze\".");
@@ -123,8 +123,8 @@ void init_lista_descrizioni_stanze()
     char temp_descrizione[LUNG_DESCRIZIONE_MAX];
     char c;
 
-    txt_lista_descrizioni_stanze = fopen("data/lista_descrizioni_stanze.txt", "r");
-    bin_lista_descrizioni_stanze = fopen("data/lista_descrizioni_stanze.bin", "wb");
+    txt_lista_descrizioni_stanze = fopen("../data/lista_descrizioni_stanze.txt", "r");
+    bin_lista_descrizioni_stanze = fopen("../data/lista_descrizioni_stanze.bin", "wb");
     if(txt_lista_descrizioni_stanze == NULL || bin_lista_descrizioni_stanze == NULL)
     {
         printf("\n[X] Si e' verificato un errore con i file \"lista_descrizioni_stanze\".");
@@ -168,8 +168,8 @@ void init_lista_descrizioni_oggetti()
     char temp_descrizione[LUNG_DESCRIZIONE_MAX];
     char c;
 
-    txt_lista_descrizioni_oggetti = fopen("data/lista_descrizioni_oggetti.txt", "r");
-    bin_lista_descrizioni_oggetti = fopen("data/lista_descrizioni_oggetti.bin", "wb");
+    txt_lista_descrizioni_oggetti = fopen("../data/lista_descrizioni_oggetti.txt", "r");
+    bin_lista_descrizioni_oggetti = fopen("../data/lista_descrizioni_oggetti.bin", "wb");
     if(txt_lista_descrizioni_oggetti == NULL || bin_lista_descrizioni_oggetti == NULL)
     {
         printf("\n[X] Si e' verificato un errore con i file \"lista_oggetti_oggetti\".");

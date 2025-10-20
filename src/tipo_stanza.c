@@ -88,7 +88,7 @@ void creare_stanza_da_file(stanza * stanza_da_aggiungere, int i_riga, int j_col,
     char temp_descrizione_stanza[LUNG_DESCRIZIONE_MAX];
     oggetto * temp_oggetto_contenuto;   temp_oggetto_contenuto = malloc(sizeof(oggetto));
 
-    file_collegamenti_stanze = fopen("data/lista_collegamenti_stanze.bin", "rb");
+    file_collegamenti_stanze = fopen("../data/lista_collegamenti_stanze.bin", "rb");
     if(file_collegamenti_stanze == NULL)
     {
         scrivere_id_stanza(stanza_da_aggiungere, -1);
@@ -149,7 +149,7 @@ void creare_stanza_da_file(stanza * stanza_da_aggiungere, int i_riga, int j_col,
     fclose(file_collegamenti_stanze);
 
     /* ====================== LETTURA OGGETTI STANZA ======================*/
-    file_lista_oggetti_stanze = fopen("data/lista_oggetti_stanze.bin","rb");
+    file_lista_oggetti_stanze = fopen("../data/lista_oggetti_stanze.bin","rb");
 
     if(file_lista_oggetti_stanze == NULL)
     {
@@ -295,7 +295,7 @@ void creare_stanza_da_file(stanza * stanza_da_aggiungere, int i_riga, int j_col,
     /* ================== LETTURA DESCRIZIONE STANZA ==================*/
     int temp_id;
 
-    file_lista_descrizioni_stanze = fopen("data/lista_descrizioni_stanze.bin", "rb");
+    file_lista_descrizioni_stanze = fopen("../data/lista_descrizioni_stanze.bin", "rb");
     if(file_lista_oggetti_stanze == NULL)
     {
         scrivere_id_stanza(stanza_da_aggiungere, -1);
@@ -335,7 +335,7 @@ void scrivere_descrizione_oggetto_da_file(oggetto * oggetto_corrente)
 
     id_da_ricercare     = leggere_id_oggetto(oggetto_corrente);
 
-    file_lista_descrizioni_oggetti = fopen("data/lista_descrizioni_oggetti.bin", "rb");
+    file_lista_descrizioni_oggetti = fopen("../data/lista_descrizioni_oggetti.bin", "rb");
     if(file_lista_descrizioni_oggetti == NULL || id_da_ricercare <= -1)
     {
         return;

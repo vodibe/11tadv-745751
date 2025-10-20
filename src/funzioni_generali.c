@@ -214,7 +214,7 @@ void aggiornare_id_stanza_corrente(mappa * mappa_gioco, int id_stanza_corrente)
     }
     else
     {
-        file_lista_id_stanze_isolate = fopen("data/lista_id_stanze_isolate.txt", "r");
+        file_lista_id_stanze_isolate = fopen("../data/lista_id_stanze_isolate.txt", "r");
         if(file_lista_id_stanze_isolate == NULL)
         {
             esito_controllo = false;
@@ -257,7 +257,7 @@ stanza * leggere_stanza_oggetto(mappa * mappa_gioco, int id_oggetto)
     }
     else
     {
-        file_lista_id_stanze_isolate = fopen("data/lista_id_stanze_isolate.txt", "r");
+        file_lista_id_stanze_isolate = fopen("../data/lista_id_stanze_isolate.txt", "r");
         if(file_lista_id_stanze_isolate == NULL)
         {
             esito_controllo = false;
@@ -473,7 +473,7 @@ void salvare_partita(oggetto_personaggio * protagonista, oggetto * inventario, m
     int i,j;
     
     /*Elaborazione del percorso del file da cui caricare i progressi */
-    path_file_salvataggio = malloc(strlen("slot/") + strlen(nome_giocatore) + strlen("_save.bin") + 1);
+    path_file_salvataggio = malloc(strlen("../slot/") + strlen(nome_giocatore) + strlen("_save.bin") + 1);
     //Se la malloc fallisce nel recuperare un indirizzo di un blocco contiguo di memoria dai errore
     if(path_file_salvataggio == NULL)
     {
@@ -481,7 +481,7 @@ void salvare_partita(oggetto_personaggio * protagonista, oggetto * inventario, m
         esito_controllo = false;
         return;
     }
-    strcpy(path_file_salvataggio, "slot/");
+    strcpy(path_file_salvataggio, "../slot/");
     strcat(path_file_salvataggio, nome_giocatore);
     strcat(path_file_salvataggio, "_save.bin");
 
@@ -552,14 +552,14 @@ void caricare_partita(oggetto_personaggio * protagonista, oggetto * inventario, 
     int i,j;
     
     /*Elaborazione del percorso del file da cui caricare i progressi */
-    path_file_caricamento = malloc(strlen("slot/") + strlen(nome_giocatore) + strlen("_save.bin") + 1);
+    path_file_caricamento = malloc(strlen("../slot/") + strlen(nome_giocatore) + strlen("_save.bin") + 1);
     if(path_file_caricamento == NULL)
     {
         printf("\n[X] Errore durante il caricamento del salvataggio.");
         esito_controllo = false;
         return;
     }
-    strcpy(path_file_caricamento, "slot/");
+    strcpy(path_file_caricamento, "../slot/");
     strcat(path_file_caricamento, nome_giocatore);
     strcat(path_file_caricamento, "_save.bin");
 

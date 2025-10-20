@@ -35,7 +35,7 @@ void mostrare_guida_gioco()
     FILE * file_guida_gioco;
     char c;
 
-    file_guida_gioco = fopen("data/guida_gioco.txt", "r");
+    file_guida_gioco = fopen("../data/guida_gioco.txt", "r");
     if(file_guida_gioco == NULL)
     {
         printf("[X] Impossibile visualizzare la guida ora.\n");
@@ -189,7 +189,7 @@ void mostrare_intro_outro(const int ID_INTRO_OUTRO)
     char c;
     int temp_id;
     bool fine_ricerca;
-    file_intro_outro_gioco = fopen("data/intro_outro_gioco.txt", "r");
+    file_intro_outro_gioco = fopen("../data/intro_outro_gioco.txt", "r");
     if(file_intro_outro_gioco == NULL)
     {
         return;
