@@ -136,12 +136,12 @@ void init_dati(mappa * mappa_gioco, comando * lista_comandi)
         else if(i_op==4) init_comandi                  (lista_comandi);
 
         /* Caricamento delle strutture dati */
-        else if(i_op==5) creare_mappa                  ("../data/dimensione_mappa.txt",         mappa_gioco); 
+        else if(i_op==5) creare_mappa                  ("data/dimensione_mappa.txt",         mappa_gioco); 
         else if(i_op==6) aggiungere_stanze_in_mappa    (                                     mappa_gioco);
-        else if(i_op==7) aggiungere_porte_in_mappa     ("../data/lista_oggetti_porte.txt",      mappa_gioco);
-        else if(i_op==8) aggiungere_cibi_in_mappa      ("../data/lista_oggetti_cibo.txt" ,      mappa_gioco);
-        else if(i_op==9) aggiungere_armi_in_mappa      ("../data/lista_oggetti_armi.txt" ,      mappa_gioco);
-        else if(i_op==10)aggiungere_personaggi_in_mappa("../data/lista_oggetti_personaggi.txt", mappa_gioco);
+        else if(i_op==7) aggiungere_porte_in_mappa     ("data/lista_oggetti_porte.txt",      mappa_gioco);
+        else if(i_op==8) aggiungere_cibi_in_mappa      ("data/lista_oggetti_cibo.txt" ,      mappa_gioco);
+        else if(i_op==9) aggiungere_armi_in_mappa      ("data/lista_oggetti_armi.txt" ,      mappa_gioco);
+        else if(i_op==10)aggiungere_personaggi_in_mappa("data/lista_oggetti_personaggi.txt", mappa_gioco);
         i_op++;
     }
 }

@@ -143,7 +143,7 @@ void init_comandi(comando * lista_comandi)
     int temp_val;
     char temp_regex[LUNG_DESCRIZIONE_MAX];
 
-    file_lista_comandi = fopen("../data/comandi_informazioni.txt", "r");
+    file_lista_comandi = fopen("data/comandi_informazioni.txt", "r");
     if(file_lista_comandi == NULL)
     {
         printf("\n[X] Si e' verificato un errore con il file \"comandi_informazioni.txt\".");
@@ -1156,7 +1156,7 @@ void eseguire_leggi(oggetto * oggetto_corrente)
     bool fine_ricerca;
         
     FILE * txt_file_lista_messaggi;
-    txt_file_lista_messaggi = fopen("../data/lista_messaggi_oggetti_leggibili.txt", "r");
+    txt_file_lista_messaggi = fopen("data/lista_messaggi_oggetti_leggibili.txt", "r");
     if(txt_file_lista_messaggi == NULL)
     {
         printf("\n[X] Errore nell'apertura del file dei messaggi");

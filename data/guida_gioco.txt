@@ -3,7 +3,7 @@ _____[ GUIDA AL GIOCO ]__________)
 
 [h] ---COMANDI
     In questa avventura testuale non c'e' un unico comando per esprimere un'azione.
-    Dai un'occhiata al file ../data/comandi_informazioni.txt per saperne di piu'.
+    Dai un'occhiata al file data/comandi_informazioni.txt per saperne di piu'.
     Di seguito trovi alcuni esempi di comandi.
     @ "vai"           - spostarti da una stanza all'altra.
     @ "sali"/"scendi" - salire/scendere su/da un oggetto.

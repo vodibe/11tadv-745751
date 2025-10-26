@@ -214,7 +214,7 @@ void aggiornare_id_stanza_corrente(mappa * mappa_gioco, int id_stanza_corrente)
     }
     else
     {
-        file_lista_id_stanze_isolate = fopen("../data/lista_id_stanze_isolate.txt", "r");
+        file_lista_id_stanze_isolate = fopen("data/lista_id_stanze_isolate.txt", "r");
         if(file_lista_id_stanze_isolate == NULL)
         {
             esito_controllo = false;
@@ -257,7 +257,7 @@ stanza * leggere_stanza_oggetto(mappa * mappa_gioco, int id_oggetto)
     }
     else
     {
-        file_lista_id_stanze_isolate = fopen("../data/lista_id_stanze_isolate.txt", "r");
+        file_lista_id_stanze_isolate = fopen("data/lista_id_stanze_isolate.txt", "r");
         if(file_lista_id_stanze_isolate == NULL)
         {
             esito_controllo = false;
